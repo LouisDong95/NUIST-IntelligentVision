@@ -58,7 +58,7 @@ UUID=b42dc368-1896-4928-baab-14fd4a9a59b2 /mnt/sda ext4 auto,user,rw 0 0
 
 安装至：`/opt/anaconda3`下
 
-详细步骤：https://zhuanlan.zhihu.com/p/570747928
+详细步骤：https://anaconda.org.cn/anaconda/install/multi-user/ or https://zhuanlan.zhihu.com/p/570747928
 
 **测试**
 
